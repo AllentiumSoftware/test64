@@ -1,0 +1,13 @@
+# test64
+Test 64 bit cross platform C program.
+
+This program tests if your system is 64 bit or not.
+by Darcy Allen of Canada
+
+To Build:
+on any linux distribution
+gcc test64.c
+
+To Run the Test:
+./a.out
+
